@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(203, 224, 246)
+}
+
+#input
+{
+    width: 50%;
+}
+
+#header
+{
+    margin: 0;
+   font-family: 'Courier New', Courier, monospace;
+   font-weight: bold;
+   font-size: 40px;
+}
+
+#note
+{
+    margin: 0;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: lighter;
+    font-size: 20px;
+}
+
+canvas{
+    background-color: black;
+    border: 3px solid black;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
